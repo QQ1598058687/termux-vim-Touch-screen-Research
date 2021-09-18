@@ -1,6 +1,5 @@
 # termux-vim-Touch-screen-version
 
-QQ群277695910
 
 Vim 功能改造
 
