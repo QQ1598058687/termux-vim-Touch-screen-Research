@@ -11,7 +11,7 @@ Vim function transformation
 ![image](https://github.com/QQ1598058687/termux-vim-Touch-screen-version/blob/main/Screenrecorder-2021-09-22-01-05-32-892.gif)
 已委托某群友发布视频于油管
 
-![Watch the video](https://youtu.be/Vj6eWQyJi_8)
+[![Watch the video](https://youtu.be/Vj6eWQyJi_8)
 
 
-by china 1598058687
+by china c_cpp123
