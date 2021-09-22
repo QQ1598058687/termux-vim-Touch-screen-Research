@@ -6,7 +6,7 @@ bin-release/
 
 # Other files and folders
 .settings/
-*.png
+研究过程/*.png
 # Executables
 *.swf
 *.air
