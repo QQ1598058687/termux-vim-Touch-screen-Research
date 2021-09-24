@@ -16,7 +16,7 @@ Vim function transformation
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/4Di8L98"  ><a href="//imgur.com/a/4Di8L98">vim Touch SCREEN version</a></blockquote>
 
 Very similar to my ide
-
 ![image](https://github.com/QQ1598058687/termux-vim-Touch-screen-version/blob/main/%5D%7D55X)7PQ%400ZB%259RSR%60FGKQ.jpg)
-![image](https://github.com/QQ1598058687/termux-vim-Touch-screen-version/blob/main/QQ%E6%88%AA%E5%9B%BE20210924224854.png)
+![image](https://github.com/QQ1598058687/termux-vim-Touch-screen-version/blob/main/%5D%7D55X)7PQ%400ZB%259RSR%60FGKQ.jpg)
+
 by china c_cpp123
