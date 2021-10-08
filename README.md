@@ -1,5 +1,6 @@
 # termux-vim-Touch-screen-version
 
+https://github.com/QQ1598058687/ubuntu-in-termux
 
 Vim 功能改造
 
