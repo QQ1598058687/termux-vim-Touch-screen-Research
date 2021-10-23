@@ -1,6 +1,6 @@
 # termux-vim-Touch-screen-version
 
-https://github.com/QQ1598058687/VIM-for-touch-screen-operation
+https://github.com/QQ1598058687/vim_touch_for_termux
 
 Vim 功能改造
 
